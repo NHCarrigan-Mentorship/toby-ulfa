@@ -40,7 +40,7 @@ Stretch goals:
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NHCarrigan-Mentorship/toby-ulfa.git
 cd gamified-learning-tracker
 npm install
 ```
