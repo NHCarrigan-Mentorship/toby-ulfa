@@ -1,3 +1,5 @@
+# toby-ulfa
+
 # Gamified Learning Tracker API 🎮📚
 
 A backend API built with **Node.js, Express, and Sequelize** to help users track learning goals, complete tasks, earn XP, level up, and unlock achievements.  
@@ -40,7 +42,7 @@ Stretch goals:
 ### Installation
 
 ```bash
-git clone https://github.com/NHCarrigan-Mentorship/toby-ulfa.git
+git clone <your-repo-url>
 cd gamified-learning-tracker
 npm install
 ```
